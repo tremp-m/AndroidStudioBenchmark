@@ -55,7 +55,7 @@ JDK 17 has support for Macbook with M1/MPro chips. It'w better use this if you h
 For me it was: `JAVA_HOME: C:\Program Files\Java\jdk1.8.0_271`
 
 # 5. Download AndroidStudioBenchmark repository: 
-https://github.com/yozhik/AndroidStudioBenchmark
+https://github.com/tremp-m/AndroidStudioBenchmark (fork of https://github.com/yozhik/AndroidStudioBenchmark)
 
 This is a fork of opensource `Firefox browser for Android` (https://github.com/mozilla-mobile/focus-android). 
 
