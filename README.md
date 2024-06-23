@@ -123,5 +123,3 @@ Letter theme: `AndroidStudioPerformanceTest`
 `Additional comments`: you can write here whenever you want: The CPU was running all time 100%, laptop was extremely hot 
 near the screen, ram was used for 80% etc, fans where running very hard etc..
 
-`Contributor`: If you want to leave here a link to your youtube channel/linkedin/other contact info/alias etc - you are welcome, if not - it will be empty.
-
