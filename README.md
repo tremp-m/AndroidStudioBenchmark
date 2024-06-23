@@ -100,7 +100,7 @@ While system assembling watch for you `Task Manager` how `CPU` is processing, ho
 it would be cool if you can watch CPU temperature with some tool like `AIDA`: https://www.aida64.com/downloads
 
 # 9. Share results
-If you want to share result of your test with the community, please send it to my email: serhiyradkivskiy@gmail.com and I will add it here:
+If you want to share result of your test with the community, please send it to my email: MakarenkoOV@gmail.com and I will add it here:
 
 In such format:
 
